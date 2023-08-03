@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ..
+- 📫 How to reach me .
 
 <!---
 Sguy2/Sguy2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
